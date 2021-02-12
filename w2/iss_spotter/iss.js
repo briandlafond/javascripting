@@ -79,3 +79,5 @@ module.exports = { fetchMyIP };
 module.exports = { fetchCoordsByIP };
 module.exports = { fetchISSFlyOverTimes };
 module.exports = { nextISSTimesForMyLocation };
+
+const test = console.log(test);
